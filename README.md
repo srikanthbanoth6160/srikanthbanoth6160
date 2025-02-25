@@ -2,7 +2,7 @@
 
 # Hi, I'm Srikanth Banoth  
 
-**Data Analyst | Data Scientist**  
+**Data Analyst**  
 
 - 🔍 Experienced **Data Analyst** with expertise in **Data Science, Machine Learning, ETL Pipelines, and Statistical Analysis**.  
 - 💡 Skilled in **Python, SQL, R, Power BI, Tableau, Apache Spark, and AWS**.  
