@@ -1,6 +1,6 @@
 # **Srikanth Banoth**  
-### **Data Analyst | Data Scientist**  
-📍 Memphis, TN | ✉️ srikanthbanoth1100@gmail.com | [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/srikanth-banoth-736987210/)  
+### **Data Analyst **  
+📍 Memphis, TN | ✉️ srikanthbanoth1100@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikanth-banoth-736987210/)  
 
 ## **About Me**  
 Dynamic **Data Analyst** with **4+ years** of experience in data analysis, statistical modeling, A/B experimentation, **ETL workflows**, and **machine learning**. Passionate about transforming raw data into meaningful insights using **SQL, Python, R, Power BI, and Tableau**. Adept at working with **big data technologies** and cloud platforms like **AWS, Azure, and GCP** to drive data-driven decision-making.  
