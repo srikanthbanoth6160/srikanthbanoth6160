@@ -17,7 +17,6 @@ Dynamic **Data Analyst** with **4+ years** of experience in data analysis, stati
 🚀 **ETL & Workflow Management:** Apache Airflow, DBT, Informatica, Snowflake  
 
 ## **🚀 Featured Projects**  
-## **🚀 Featured Projects**  
 🔹 [**Customer Value Prediction using Iranian Churn Dataset**](https://github.com/srikanthbanoth6160/Customer-value-Prediction-using-iranian-churn-dataset) - Built a **predictive model** in R to analyze customer churn trends and enhance retention strategies.  
 
 🔹 [**Secondary Mushroom Data Analysis Using R**](https://github.com/srikanthbanoth6160/Secondary-Mushroom-Data-Using-R-programming) - Performed statistical analysis on mushroom data using R to determine edible vs. poisonous species.  
