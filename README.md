@@ -25,7 +25,7 @@ Dynamic **Data Analyst** with **4+ years** of experience in data analysis, stati
 🔹 [**Big Data Pipeline with AWS**](#) - Developed a **scalable ETL pipeline** using AWS Glue and Redshift.  
 
 ## **📄 Resume & Certifications**  
-📌 [**Resume**](https://drive.google.com/file/d/1ATsJ5UdDJ1myzs4EvpCvADUYcQc5rORz/view?usp=sharing)  
+📌 [**Resume**](https://drive.google.com/file/d/1afpP7Umu9EvZC_UkuiGg4NlzCQtkQuUn/view?usp=sharing)  
 📜 **Certifications:**  
 - **Power BI Essential Training**  
 - **Tableau 2024.1**  
