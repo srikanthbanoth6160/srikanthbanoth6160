@@ -1,5 +1,5 @@
 # **Srikanth Banoth**  
-### **Data Analyst **  
+### **Data Analyst**  
 📍 Memphis, TN | ✉️ srikanthbanoth1100@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikanth-banoth-736987210/)  
 
 ## **About Me**  
@@ -8,9 +8,6 @@ Dynamic **Data Analyst** with **4+ years** of experience in data analysis, stati
 🔹 **Currently:** Data Analyst at **Dell Technologies, USA**  
 🔹 **Expertise:** Data Wrangling, ETL/ELT Pipelines, Machine Learning, Data Visualization  
 🔹 **Cloud & Databases:** AWS (S3, Lambda, Redshift), Snowflake, SQL Server, MongoDB, PostgreSQL  
-
-## **📈 My GitHub Stats**  
-![Srikanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srikanthbanoth6160&show_icons=true&theme=radical)  
 
 ## **🔧 Skills & Tools**  
 💡 **Data Analytics & BI:** Power BI, Tableau, Excel (PivotTables, VLOOKUP, Power Query)  
