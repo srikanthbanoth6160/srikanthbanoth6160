@@ -1,26 +1,36 @@
-![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/srikanthbanoth6160/srikanthbanoth6160/assets/155794659/860ba962-ad5f-4445-98fd-a5f109adab76)
+# **Srikanth Banoth**  
+### **Data Analyst | Data Scientist**  
+📍 Memphis, TN | ✉️ srikanthbanoth1100@gmail.com | [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/srikanth-banoth-736987210/)  
 
- **Hi, I’m Srikanth Banoth**
- 
- **A Data Scientist**
-- 🌱 I’m currently learning Machine Learning, Stastical Analysis,Apache Spark
-- 💬 Ask me about Python , SQL, R programming
-- 📫 How to reach me srikanthbanoth6160@gmail.com
+## **About Me**  
+Dynamic **Data Analyst** with **4+ years** of experience in data analysis, statistical modeling, A/B experimentation, **ETL workflows**, and **machine learning**. Passionate about transforming raw data into meaningful insights using **SQL, Python, R, Power BI, and Tableau**. Adept at working with **big data technologies** and cloud platforms like **AWS, Azure, and GCP** to drive data-driven decision-making.  
 
-📄 Know about my experiences https://drive.google.com/file/d/1ATsJ5UdDJ1myzs4EvpCvADUYcQc5rORz/view?usp=sharing
+🔹 **Currently:** Data Analyst at **Dell Technologies, USA**  
+🔹 **Expertise:** Data Wrangling, ETL/ELT Pipelines, Machine Learning, Data Visualization  
+🔹 **Cloud & Databases:** AWS (S3, Lambda, Redshift), Snowflake, SQL Server, MongoDB, PostgreSQL  
 
-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/srikanth-banoth-736987210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Srikanth-Banoth" height="30" width="40" /></a>
+## **📈 My GitHub Stats**  
+![Srikanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srikanthbanoth6160&show_icons=true&theme=radical)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" width="40" height="40"/> 
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
-</p>
+## **🔧 Skills & Tools**  
+💡 **Data Analytics & BI:** Power BI, Tableau, Excel (PivotTables, VLOOKUP, Power Query)  
+💻 **Programming & Data Science:** Python (Pandas, NumPy, Scikit-Learn, TensorFlow), R, SQL, SAS  
+📊 **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB  
+☁ **Cloud & Big Data:** AWS (Glue, Redshift), Azure (Data Factory, Synapse), Apache Spark  
+🚀 **ETL & Workflow Management:** Apache Airflow, DBT, Informatica, Snowflake  
+
+## **🚀 Featured Projects**  
+🔹 [**Customer Churn Prediction**](#) - Built an ML model using Python to predict customer churn with **85% accuracy**.  
+🔹 [**Sales Forecasting Dashboard**](#) - Created an **interactive Power BI dashboard** for sales analysis using SQL & Power BI.  
+🔹 [**Big Data Pipeline with AWS**](#) - Developed a **scalable ETL pipeline** using AWS Glue and Redshift.  
+
+## **📄 Resume & Certifications**  
+📌 [**Resume**](https://drive.google.com/file/d/1ATsJ5UdDJ1myzs4EvpCvADUYcQc5rORz/view?usp=sharing)  
+📜 **Certifications:**  
+- **Power BI Essential Training**  
+- **Tableau 2024.1**  
+- **ETL in Python & SQL**  
+- **The Complete Oracle SQL**  
+
+## **📬 Connect with Me**  
+💼 [LinkedIn](https://www.linkedin.com/in/srikanth-banoth-736987210/) | ✉️ srikanthbanoth1100@gmail.com  
