@@ -64,12 +64,11 @@
 ### Licenses & Certifications
 
 - **[Excel Essential Training (Microsoft 365)](https://www.linkedin.com/in/srikanth-banoth-736987210/details/certifications/1738956415037/single-media-viewer/?profileId=ACoAADWJp1oBiiZ9E_0gJEH8T0Lex4uFk2BpxPM)**  
-- **[Patent and Design Journal](URL)**  
-- **[ETL in Python and SQL](URL)**  
-- **[Power BI Essential Training](URL)**  
-- **[Tableau 2024.1: Essential Training](URL)**  
-- **[The Complete Oracle SQL Certification Course](URL)**  
-- **[Machine Learning Specialization](URL)**  
+- **[Patent and Design Journal](https://www.linkedin.com/in/srikanth-banoth-736987210/details/certifications/1732069705/multiple-media-viewer/?profileId=ACoAADWJp1oBiiZ9E_0gJEH8T0Lex4uFk2BpxPM&treasuryMediaId=1739462237816)**  
+- **[ETL in Python and SQL](https://www.linkedin.com/in/srikanth-banoth-736987210/details/certifications/1738258203159/single-media-viewer/?profileId=ACoAADWJp1oBiiZ9E_0gJEH8T0Lex4uFk2BpxPM)**  
+- **[Power BI Essential Training](https://www.linkedin.com/in/srikanth-banoth-736987210/details/certifications/1737662155447/single-media-viewer/?profileId=ACoAADWJp1oBiiZ9E_0gJEH8T0Lex4uFk2BpxPM)**  
+- **[Tableau 2024.1: Essential Training](https://www.linkedin.com/in/srikanth-banoth-736987210/details/certifications/1732235759599/single-media-viewer/?profileId=ACoAADWJp1oBiiZ9E_0gJEH8T0Lex4uFk2BpxPM)**  
+- **[The Complete Oracle SQL Certification Course](https://www.linkedin.com/in/srikanth-banoth-736987210/details/certifications/1729892479340/single-media-viewer/?profileId=ACoAADWJp1oBiiZ9E_0gJEH8T0Lex4uFk2BpxPM)**    
 ---
 
 ## 🤝 Connect with Me  
