@@ -1,38 +1,91 @@
-# **Srikanth Banoth**  
-### **Data Analyst**  
-📍 Memphis, TN | ✉️ srikanthbanoth1100@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikanth-banoth-736987210/)  
+![GitHub Banner](https://github.com/srikanthbanoth6160/srikanthbanoth6160/assets/155794659/860ba962-ad5f-4445-98fd-a5f109adab76)
 
-## **About Me**  
-Dynamic **Data Analyst** with **4+ years** of experience in data analysis, statistical modeling, A/B experimentation, **ETL workflows**, and **machine learning**. Passionate about transforming raw data into meaningful insights using **SQL, Python, R, Power BI, and Tableau**. Adept at working with **big data technologies** and cloud platforms like **AWS, Azure, and GCP** to drive data-driven decision-making.  
+# Hi, I'm Srikanth Banoth  
 
-🔹 **Currently:** Data Analyst at **Dell Technologies, USA**  
-🔹 **Expertise:** Data Wrangling, ETL/ELT Pipelines, Machine Learning, Data Visualization  
-🔹 **Cloud & Databases:** AWS (S3, Lambda, Redshift), Snowflake, SQL Server, MongoDB, PostgreSQL  
+**Data Analyst | Data Scientist**  
 
-## **🔧 Skills & Tools**  
-💡 **Data Analytics & BI:** Power BI, Tableau, Excel (PivotTables, VLOOKUP, Power Query)  
-💻 **Programming & Data Science:** Python (Pandas, NumPy, Scikit-Learn, TensorFlow), R, SQL, SAS  
-📊 **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB  
-☁ **Cloud & Big Data:** AWS (Glue, Redshift), Azure (Data Factory, Synapse), Apache Spark  
-🚀 **ETL & Workflow Management:** Apache Airflow, DBT, Informatica, Snowflake  
+- 🔍 Experienced **Data Analyst** with expertise in **Data Science, Machine Learning, ETL Pipelines, and Statistical Analysis**.  
+- 💡 Skilled in **Python, SQL, R, Power BI, Tableau, Apache Spark, and AWS**.  
+- 📊 Hands-on experience in **Predictive Modeling, A/B Testing, Data Visualization, and Big Data Processing**.  
+- 📫 Reach me at **srikanthbanoth1100@gmail.com**  
+- 📄 [View My Resume](https://drive.google.com/file/d/1afpP7Umu9EvZC_UkuiGg4NlzCQtkQuUn/view?usp=sharing)  
 
-## **🚀 Featured Projects**  
-🔹 [**Customer Value Prediction using Iranian Churn Dataset**](https://github.com/srikanthbanoth6160/Customer-value-Prediction-using-iranian-churn-dataset) - Built a **predictive model** in R to analyze customer churn trends and enhance retention strategies.  
+---
 
-🔹 [**Secondary Mushroom Data Analysis Using R**](https://github.com/srikanthbanoth6160/Secondary-Mushroom-Data-Using-R-programming) - Performed statistical analysis on mushroom data using R to determine edible vs. poisonous species.  
+## 💼 Work Experience  
 
-🔹 [**Email Spam Detection using Machine Learning**](https://github.com/srikanthbanoth6160/Email-Spam-Detection-using-machine-learning) - Developed a **spam classification model** using ML techniques in Jupyter Notebook.  
+### **Data Analyst | Dell Technologies (Sep 2024 - Present)**  
+- Built **predictive models** using **Scikit-learn, TensorFlow, and PySpark**, improving analytics accuracy by **20%**.  
+- Optimized **ETL workflows** using **AWS Glue, Airflow, and Snowflake**, increasing data integration efficiency by **30%**.  
+- Designed **interactive dashboards** in **Tableau and Power BI**, improving stakeholder decision-making by **20%**.  
+- Developed **SQL-based automation scripts**, reducing manual reporting time by **15 hours weekly**.  
 
-🔹 [**Rainfall Detection using Machine Learning**](https://github.com/srikanthbanoth6160/Rain-Fall-Detection-using-Machine-Learning) - Applied ML algorithms to predict rainfall patterns using meteorological datasets.  
- 
+### **Data Analyst | Avenir Technology (Aug 2019 – Dec 2022)**  
+- Automated **data pipelines** for structured and unstructured data using **Python and SQL**, enhancing data processing speed.  
+- Conducted **Exploratory Data Analysis (EDA)** to identify key business trends.  
+- Developed **forecasting models** to improve business decision-making by **20%**.  
+- Integrated cloud-based data storage using **AWS, Azure, and Google Cloud Platform (GCP)**.  
 
-## **📄 Resume & Certifications**  
-📌 [**Resume**](https://drive.google.com/file/d/1afpP7Umu9EvZC_UkuiGg4NlzCQtkQuUn/view?usp=sharing)  
-📜 **Certifications:**  
+---
+
+## 🔥 Key Skills  
+
+- **Data Analytics & BI:** Power BI, Tableau, Excel (PivotTables, VLOOKUP, Power Query)  
+- **Programming & Data Science:** Python (Pandas, NumPy, Scikit-Learn, TensorFlow), R, SQL, SAS  
+- **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB, DynamoDB  
+- **Cloud & Big Data:** AWS (Glue, Redshift), Azure (Data Factory, Synapse), Apache Spark  
+- **ETL & Workflow Management:** Apache Airflow, DBT, Informatica, Snowflake  
+
+---
+
+## 📌 Featured Projects  
+
+- **[Customer Value Prediction](https://github.com/srikanthbanoth6160/Customer-value-Prediction-using-iranian-churn-dataset)**  
+   Developed an ML model to predict **customer churn** using **R programming**.  
+
+- **[Mushroom Data Analysis](https://github.com/srikanthbanoth6160/Secondary-Mushroom-Data-Using-R-programming)**  
+   Performed **statistical analysis** on mushroom datasets using **R programming**.  
+
+- **[Email Spam Detection](https://github.com/srikanthbanoth6160/Email-Spam-Detection-using-machine-learning)**  
+   Built an **ML classification model** to detect spam emails using **Jupyter Notebook**.  
+
+- **[Rainfall Prediction Using Machine Learning](https://github.com/srikanthbanoth6160/Rain-Fall-Detection-using-Machine-Learning)**  
+   Applied **ML algorithms** to predict rainfall patterns using **meteorological datasets**.  
+
+---
+
+## 📚 Education  
+
+- **Master’s in Data Science** | University of Memphis, TN  
+- **Bachelor’s in Electronics & Communication Engineering** | Guru Nanak Institute of Technical Campus, Telangana  
+
+---
+
+## 📜 Certifications  
+
 - **Power BI Essential Training**  
 - **Tableau 2024.1**  
 - **ETL in Python & SQL**  
 - **The Complete Oracle SQL**  
 
-## **📬 Connect with Me**  
-💼 [LinkedIn](https://www.linkedin.com/in/srikanth-banoth-736987210/) | ✉️ srikanthbanoth1100@gmail.com  
+---
+
+## 🤝 Connect with Me  
+
+<p align="left">
+<a href="https://www.linkedin.com/in/srikanth-banoth-736987210/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="srikanth-banoth" /></a>
+</p>
+
+---
+
+## 🛠 Languages & Tools  
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" width="40" height="40"/> 
+  <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Power_bi_logo_black.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Tableau_Software_logo.svg" alt="Tableau" width="80" height="40"/>
+</p>
