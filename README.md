@@ -63,42 +63,13 @@
 
 ### Licenses & Certifications
 
-- **[Excel Essential Training (Microsoft 365)](URL)**  
-  Issued by [LinkedIn](https://www.linkedin.com) - Issued Feb 2025  
-  Skills: Microsoft Excel  
-  ![Credential](path_to_certificate_image)
-
+- **[Excel Essential Training (Microsoft 365)](https://www.linkedin.com/in/srikanth-banoth-736987210/details/certifications/1738956415037/single-media-viewer/?profileId=ACoAADWJp1oBiiZ9E_0gJEH8T0Lex4uFk2BpxPM)**  
 - **[Patent and Design Journal](URL)**  
-  Issued by [Indian Intellectual Property Foundation](https://www.iipf.in) - Issued Feb 2025  
-  Credential ID: [437518-001](URL)  
-  Skills: Innovation Development, IoT, Data Analytics, AI, Machine Learning  
-  ![Credential](path_to_certificate_image)
-
 - **[ETL in Python and SQL](URL)**  
-  Issued by [LinkedIn](https://www.linkedin.com) - Issued Jan 2025  
-  Skills: Python, SQL, ETL  
-  ![Credential](path_to_certificate_image)
-
 - **[Power BI Essential Training](URL)**  
-  Issued by [LinkedIn](https://www.linkedin.com) - Issued Jan 2025  
-  Skills: Power BI, Data Modeling  
-  ![Credential](path_to_certificate_image)
-
 - **[Tableau 2024.1: Essential Training](URL)**  
-  Issued by [LinkedIn](https://www.linkedin.com) - Issued Nov 2024  
-  Skills: Data Analysis, Tableau  
-  ![Credential](path_to_certificate_image)
-
 - **[The Complete Oracle SQL Certification Course](URL)**  
-  Issued by [Udemy](https://www.udemy.com) - Issued Oct 2024  
-  Skills: MySQL, SQL  
-  ![Credential](path_to_certificate_image)
-
 - **[Machine Learning Specialization](URL)**  
-  Issued by [Coursera](https://www.coursera.org) - Issued Jun 2023  
-  Skills: Machine Learning  
-  ![Credential](path_to_certificate_image)
-
 ---
 
 ## 🤝 Connect with Me  
