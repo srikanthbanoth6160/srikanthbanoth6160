@@ -17,9 +17,15 @@ Dynamic **Data Analyst** with **4+ years** of experience in data analysis, stati
 🚀 **ETL & Workflow Management:** Apache Airflow, DBT, Informatica, Snowflake  
 
 ## **🚀 Featured Projects**  
-🔹 [**Customer Churn Prediction**](#) - Built an ML model using Python to predict customer churn with **85% accuracy**.  
-🔹 [**Sales Forecasting Dashboard**](#) - Created an **interactive Power BI dashboard** for sales analysis using SQL & Power BI.  
-🔹 [**Big Data Pipeline with AWS**](#) - Developed a **scalable ETL pipeline** using AWS Glue and Redshift.  
+## **🚀 Featured Projects**  
+🔹 [**Customer Value Prediction using Iranian Churn Dataset**](https://github.com/srikanthbanoth6160/Customer-value-Prediction-using-iranian-churn-dataset) - Built a **predictive model** in R to analyze customer churn trends and enhance retention strategies.  
+
+🔹 [**Secondary Mushroom Data Analysis Using R**](https://github.com/srikanthbanoth6160/Secondary-Mushroom-Data-Using-R-programming) - Performed statistical analysis on mushroom data using R to determine edible vs. poisonous species.  
+
+🔹 [**Email Spam Detection using Machine Learning**](https://github.com/srikanthbanoth6160/Email-Spam-Detection-using-machine-learning) - Developed a **spam classification model** using ML techniques in Jupyter Notebook.  
+
+🔹 [**Rainfall Detection using Machine Learning**](https://github.com/srikanthbanoth6160/Rain-Fall-Detection-using-Machine-Learning) - Applied ML algorithms to predict rainfall patterns using meteorological datasets.  
+ 
 
 ## **📄 Resume & Certifications**  
 📌 [**Resume**](https://drive.google.com/file/d/1afpP7Umu9EvZC_UkuiGg4NlzCQtkQuUn/view?usp=sharing)  
