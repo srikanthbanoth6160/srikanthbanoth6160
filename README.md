@@ -8,7 +8,7 @@
 - 💡 Skilled in **Python, SQL, R, Power BI, Tableau, Apache Spark, and AWS**.  
 - 📊 Hands-on experience in **Predictive Modeling, A/B Testing, Data Visualization, and Big Data Processing**.  
 - 📫 Reach me at **srikanthbanoth1100@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/drive/home)  
+- 📄 [View My Resume](https://drive.google.com/file/d/18r0bGp-unXpNf1i3FJKp5GwNcmj5Yij1/view?usp=sharing)  
 
 ---
 
