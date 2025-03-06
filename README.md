@@ -40,6 +40,12 @@
 
 ## 📌 Featured Projects  
 
+- **[COVID-19 Data Analysis and Visualization](https://github.com/srikanthbanoth6160/COVID-19-Data-Analysis-and-Visualization/blob/main/README.md)**  
+   Analyzed and visualized global COVID-19 data to track trends, infection rates, and recovery statistics.  
+
+- **[IoT-Based Data Security Analytic Device](https://github.com/srikanthbanoth6160/IoT-Based-Data-Security-Analytic-Device/blob/main/README.md)**  
+   Developed an IoT-based security device that uses analytics to monitor and protect data from security threats. 
+
 - **[Customer Value Prediction](https://github.com/srikanthbanoth6160/Customer-value-Prediction-using-iranian-churn-dataset)**  
    Developed an ML model to predict **customer churn** using **R programming**.  
 
